@@ -9,7 +9,8 @@ https://medium.com/@anchietajunior/iniciando-com-testes-utilizando-rspec-no-rail
 
 2 - Cursos do PluralSight
 
-3 - Documentação
+3 - Documentação + Repo
+https://relishapp.com/rspec/rspec-rails/docs
 https://github.com/rspec/rspec-rails
 
 4 - How to Test Rails Models with RSpec
